@@ -71,9 +71,7 @@ Model Selection: Choose between mistral:7b and phi3
 Temperature: Adjust creativity of responses (0.0–1.0)
 
 Max Tokens: Set response length (50–300)
-## Demo
 
-Insert gif or link to demo
 
 
 ## Dependencies
